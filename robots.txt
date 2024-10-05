@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lakeginf.github.io/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/app/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/assets/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/css/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/data/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/includes/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/item/sitemap.html.gz
+Sitemap: https://lakeginf.github.io/src/sitemap.html.gz
